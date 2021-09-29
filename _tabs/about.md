@@ -1,5 +1,5 @@
 ---
-title: About
+title: Tentang
 icon: fas fa-info
 order: 4
 ---
