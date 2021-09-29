@@ -10,7 +10,7 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: id-ID
+lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Jakarta
@@ -23,9 +23,10 @@ title: Hadian Alkani                          # the main title
 tagline: Mobile App Developer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Hello, I am Hadian alkani, Mobile Application Developer from Indonesia, 
+  I am making Mobile Applications Especially Android Applications Using Kotlin or Flutter Framework, 
+  I am open for Remote work job offer, 
+  Welcome to my website.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://sapatekno.com'
@@ -44,9 +45,9 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/hadianalkani      # change to your twitter homepage
-    # - https://github.com/sapatekno       # change to your github homepage
+    - https://github.com/sapatekno       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/hadian.alkani
     - https://www.linkedin.com/in/hadianalkani
 
 google_site_verification: 'herXoKSbDnpx_db_i8a0kb3i0gF0jLU9U8-TYg6lAa0' # change to your verification string
@@ -82,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: https://cdn.jsdelivr.net/gh/sapatekno/sapatekno-assets/images/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
