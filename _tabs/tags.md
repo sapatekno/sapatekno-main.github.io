@@ -1,6 +1,6 @@
 ---
 layout: tags
-title: Tagar
+title: Tags
 icon: fas fa-tags
 order: 2
 ---
