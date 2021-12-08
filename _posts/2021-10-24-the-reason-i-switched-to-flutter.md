@@ -1,6 +1,6 @@
 ---
 title: The Reason I Switched To Flutter
-date: 2021-10-24 12:00:00
+date: 2021-08-17 12:00:00
 categories: [Flutter]
 tags: [flutter, opinion]
 image:
@@ -15,7 +15,7 @@ I have been an ***Android Developer*** for more than 3 years, the first year I u
 ### **Hot Reload**
 
 The problem when I build an Android app using Kotlin is that when I make small changes I have to wait for the recompile process to show the changes I want on the device, it does take some time to wait but I think it's a bit annoying and time consuming, with Flutter the issue is resolved with the feature Hot Reload, so changes will be displayed immediately when coding is saved, this is the same as when we create a website using PHP, when coding is complete, just call the address in a web browser, the code will appear quickly (Maybe this is the reason why Web Programming, especially PHP still very popular until now). makes it easier because you don't have to wait long because of the compilation process, on the web the process is called an interpreter), Hot reload is similar to that, I don't really understand what process is in hot reload, Hot Reload is not as fast as the interpreter in web programming, but definitely faster than full compilation process, so this feature will save a lot of time.
-![Flutter Hot Reload](https://flutter.dev/assets/images/docs/development/tools/android-studio-run-controls.png)
+
 You can read an explanation about the Hot Reload feature [here](https://flutter.dev/docs/development/tools/hot-reload "Flutter Hot Reload")
  
 ### **Made by Google**
